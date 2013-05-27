@@ -1,0 +1,6 @@
+Source: 
+Research.gov
+26may2013
+Files for 2011 and 2012 were opened using the csv files to avoid issues with perl when importing with the gdata package.
+
+http://www.research.gov/research-portal/appmanager/base/desktop;jsessionid=r123PmqHtBqcHPJYWsY2DZGWkLXz3zD1xzFQ16nk2R1Wj1RN8TBr!854248404!-1514043588?_nfpb=true&_windowLabel=sandiMenu_10_1_1_1_1_1&_urlType=action&sandiMenu_10_1_1_1_1_1_action=selectStatesAndTerritories&sandiMenu_10_1_1_1_1_1_id=LOCATION
